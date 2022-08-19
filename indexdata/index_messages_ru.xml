@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="ru_project_title"><![CDATA[РАНХиГС]]></data>
+
+
+  <data name="ru_panogroup39_title"><![CDATA[1 этаж]]></data>
+
+  <data name="ru_pano10_title"><![CDATA[1 этаж - 1]]></data>
+  <data name="ru_spotpoint700_tooltip"><![CDATA[1 этаж - 6 банкомат]]></data>
+  <data name="ru_spotpoint701_tooltip"><![CDATA[1 этаж - 2]]></data>
+  <data name="ru_pano11_title"><![CDATA[1 этаж - 2]]></data>
+  <data name="ru_spotpoint1018_tooltip"><![CDATA[1 этаж - 6 банкомат]]></data>
+  <data name="ru_spotpoint1019_tooltip"><![CDATA[1 этаж - 1]]></data>
+  <data name="ru_spotpoint1020_tooltip"><![CDATA[1 этаж - 3]]></data>
+  <data name="ru_pano12_title"><![CDATA[1 этаж - 3]]></data>
+  <data name="ru_spotpoint1021_tooltip"><![CDATA[1 этаж - 2]]></data>
+  <data name="ru_spotpoint1022_tooltip"><![CDATA[1 этаж - 4]]></data>
+  <data name="ru_pano13_title"><![CDATA[1 этаж - 4]]></data>
+  <data name="ru_spotpoint1024_tooltip"><![CDATA[1 этаж - 3]]></data>
+  <data name="ru_spotpoint1025_tooltip"><![CDATA[1 этаж - 5]]></data>
+  <data name="ru_pano14_title"><![CDATA[1 этаж - 5]]></data>
+  <data name="ru_spotpoint1026_tooltip"><![CDATA[1 этаж - 4]]></data>
+  <data name="ru_spotpoint1027_tooltip"><![CDATA[1 этаж - 6 банкомат]]></data>
+  <data name="ru_pano15_title"><![CDATA[1 этаж - 6 банкомат]]></data>
+  <data name="ru_spotpoint1028_tooltip"><![CDATA[1 этаж - 5]]></data>
+  <data name="ru_spotpoint1029_tooltip"><![CDATA[1 этаж - 2]]></data>
+  <data name="ru_spotpoint1030_tooltip"><![CDATA[1 этаж - 1]]></data>
+  <data name="ru_spotpoint1032_tooltip"><![CDATA[Банкомат]]></data>
+
+  <data name="ru_panogroup54_title"><![CDATA[3 этаж]]></data>
+
+  <data name="ru_pano18_title"><![CDATA[3 этаж - 2]]></data>
+  <data name="ru_spotpoint1035_tooltip"><![CDATA[3 этаж - 3]]></data>
+  <data name="ru_spotpoint1036_tooltip"><![CDATA[3 этаж - 4]]></data>
+  <data name="ru_pano19_title"><![CDATA[3 этаж - 3]]></data>
+  <data name="ru_spotpolygon478_tooltip"><![CDATA[Зеленый зал]]></data>
+  <data name="ru_spotpoint1037_tooltip"><![CDATA[3 этаж - 8]]></data>
+  <data name="ru_spotpoint1038_tooltip"><![CDATA[3 этаж - 2]]></data>
+  <data name="ru_pano24_title"><![CDATA[3 этаж - 4]]></data>
+  <data name="ru_spotpoint1039_tooltip"><![CDATA[3 этаж - 2]]></data>
+  <data name="ru_spotpoint1040_tooltip"><![CDATA[3 этаж - 7]]></data>
+  <data name="ru_spotpoint1041_tooltip"><![CDATA[3 этаж - 5]]></data>
+  <data name="ru_pano23_title"><![CDATA[3 этаж - 5]]></data>
+  <data name="ru_spotpoint1042_tooltip"><![CDATA[3 этаж - 4]]></data>
+  <data name="ru_spotpoint1043_tooltip"><![CDATA[3 этаж - 8]]></data>
+  <data name="ru_spotpoint1044_tooltip"><![CDATA[3 этаж - 6 Банкомат]]></data>
+  <data name="ru_spotpoint1059_tooltip"><![CDATA[3 этаж - 7]]></data>
+  <data name="ru_pano22_title"><![CDATA[3 этаж - 6 Банкомат]]></data>
+  <data name="ru_spotpolygon497_tooltip"><![CDATA[Зеленый зал]]></data>
+  <data name="ru_spotpoint1045_tooltip"><![CDATA[3 этаж - 5]]></data>
+  <data name="ru_spotpoint1046_tooltip"><![CDATA[3 этаж - 7]]></data>
+  <data name="ru_spotpoint1047_tooltip"><![CDATA[3 этаж - 8]]></data>
+  <data name="ru_spotpoint1061_tooltip"><![CDATA[3 этаж - 4]]></data>
+  <data name="ru_pano21_title"><![CDATA[3 этаж - 7]]></data>
+  <data name="ru_spotpolygon496_tooltip"><![CDATA[Зеленый зал]]></data>
+  <data name="ru_spotpoint1048_tooltip"><![CDATA[3 этаж - 5]]></data>
+  <data name="ru_spotpoint1049_tooltip"><![CDATA[3 этаж - 6 Банкомат]]></data>
+  <data name="ru_spotpoint1050_tooltip"><![CDATA[3 этаж - 4]]></data>
+  <data name="ru_spotpoint1051_tooltip"><![CDATA[3 этаж - 8]]></data>
+  <data name="ru_pano20_title"><![CDATA[3 этаж - 8]]></data>
+  <data name="ru_spotpoint1052_tooltip"><![CDATA[3 этаж - 5]]></data>
+  <data name="ru_spotpoint1053_tooltip"><![CDATA[3 этаж - 7]]></data>
+  <data name="ru_spotpoint1054_tooltip"><![CDATA[3 этаж - 3]]></data>
+  <data name="ru_spotpoint1062_tooltip"><![CDATA[3 этаж - 6 Банкомат]]></data>
+  <data name="ru_pano31_title"><![CDATA[Зеленый зал]]></data>
+  <data name="ru_spotpoint1055_tooltip"><![CDATA[3 этаж - 2]]></data>
+  <data name="ru_spotpoint1056_tooltip"><![CDATA[3 этаж - 6 Банкомат]]></data>
+
+  <data name="ru_panogroup58_title"><![CDATA[5 этаж]]></data>
+
+  <data name="ru_pano29_title"><![CDATA[5 этаж - 1]]></data>
+  <data name="ru_spotpoint713_tooltip"><![CDATA[5 этаж - 4]]></data>
+  <data name="ru_spotpoint714_tooltip"><![CDATA[5 этаж - 2]]></data>
+  <data name="ru_pano26_title"><![CDATA[5 этаж - 2]]></data>
+  <data name="ru_spotpoint715_tooltip"><![CDATA[5 этаж - 3]]></data>
+  <data name="ru_spotpoint716_tooltip"><![CDATA[5 этаж - 1]]></data>
+  <data name="ru_pano27_title"><![CDATA[5 этаж - 3]]></data>
+  <data name="ru_spotpoint717_tooltip"><![CDATA[5 этаж - 2]]></data>
+  <data name="ru_spotpoint718_tooltip"><![CDATA[5 этаж - 4]]></data>
+  <data name="ru_pano28_title"><![CDATA[5 этаж - 4]]></data>
+  <data name="ru_spotpoint719_tooltip"><![CDATA[5 этаж - 3]]></data>
+  <data name="ru_spotpoint721_tooltip"><![CDATA[5 этаж - 1]]></data>
+
+  <data name="ru_panogroup45_title"><![CDATA[6 этаж]]></data>
+
+  <data name="ru_pano16_title"><![CDATA[6 этаж - 1]]></data>
+  <data name="ru_spotpoint696_tooltip"><![CDATA[6 этаж - 2]]></data>
+  <data name="ru_pano17_title"><![CDATA[6 этаж - 2]]></data>
+  <data name="ru_spotpoint698_tooltip"><![CDATA[6 этаж - 1]]></data>
+
+  <data name="ru_panogroup101_title"><![CDATA[Корпус 1]]></data>
+
+  <data name="ru_pano36_title"><![CDATA[Корпус 1 - 1]]></data>
+  <data name="ru_pano37_title"><![CDATA[Корпус 1 - 2]]></data>
+  <data name="ru_pano38_title"><![CDATA[Корпус 1 - 3]]></data>
+
+  <data name="ru_panogroup61_title"><![CDATA[Корпус 2]]></data>
+
+  <data name="ru_pano32_title"><![CDATA[Корпус 2 - 1]]></data>
+  <data name="ru_pano33_title"><![CDATA[Корпус 2 - 2]]></data>
+  <data name="ru_pano34_title"><![CDATA[Корпус 2 - 3]]></data>
+  <data name="ru_pano35_title"><![CDATA[Корпус 2 - 4]]></data>
+
+  <data name="ru_panogroup326_title"><![CDATA[Стенды]]></data>
+
+  <data name="ru_pano313_title"><![CDATA[ИПНБ]]></data>
+  <data name="ru_spotpolygon360openurlwebsiteurl"><![CDATA[https://ilns.ranepa.ru/]]></data>
+  <data name="ru_spotpolygon362openurlwebsiteurl"><![CDATA[https://ilns.ranepa.ru/postupayushchim/priemnaya-komissiya/post-bs/index.php]]></data>
+  <data name="ru_spotpolygon363openurlwebsiteurl"><![CDATA[https://ilns.ranepa.ru/postupayushchim/priemnaya-komissiya/post-bs/index.php]]></data>
+  <data name="ru_pano318_title"><![CDATA[ИОН]]></data>
+  <data name="ru_spotpolygon364openurlwebsiteurl"><![CDATA[https://ion.ranepa.ru/ba/?type=russkiy-yazyk]]></data>
+  <data name="ru_pano319_title"><![CDATA[ИОМ]]></data>
+  <data name="ru_spotpolygon365openurlwebsiteurl"><![CDATA[https://iim.ranepa.ru/bachelor/proizvodstvennyy-menedzhment/?utm_source=google_poisk2021&utm_medium=cpc_proizvmanagement&utm_campaign=g&utm_content=440123216382&utm_term=%D1%80%D0%B0%D0%BD%D1%85%D0%B8%D0%B3%D1%81%20%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%BC%D0%B5%D0%BD%D1%82&gclid=EAIaIQobChMImomOqsvW8AIVkpiyCh0C6gXDEAAYASAAEgKOR_D_BwE]]></data>
+  <data name="ru_pano320_title"><![CDATA[ИГСУ]]></data>
+  <data name="ru_spotpolygon366openurlwebsiteurl"><![CDATA[https://igsu.ranepa.ru/]]></data>
+  <data name="ru_pano321_title"><![CDATA[ИФУР]]></data>
+  <data name="ru_spotpolygon367openurlwebsiteurl"><![CDATA[https://ifur.ranepa.ru/]]></data>
+  <data name="ru_pano322_title"><![CDATA[ЭМИТ]]></data>
+  <data name="ru_spotpolygon368openurlwebsiteurl"><![CDATA[http://emit.ranepa.ru/]]></data>
+  <data name="ru_pano323_title"><![CDATA[ФФБ]]></data>
+  <data name="ru_spotpolygon369openurlwebsiteurl"><![CDATA[https://ffb.ranepa.ru]]></data>
+  <data name="ru_pano324_title"><![CDATA[ИБДА]]></data>
+  <data name="ru_pano325_title"><![CDATA[ФФБ]]></data>
+  <data name="ru_pano315_title"><![CDATA[ИПНБ]]></data>
+  <data name="ru_pano316_title"><![CDATA[ИОМ]]></data>
+  <data name="ru_pano317_title"><![CDATA[ИОН]]></data>
+
+  <data name="ru_panogroup408_title"><![CDATA[2 корпус 1 эт]]></data>
+
+  <data name="ru_pano400_title"><![CDATA[01]]></data>
+  <data name="ru_pano401_title"><![CDATA[02]]></data>
+  <data name="ru_pano402_title"><![CDATA[03]]></data>
+  <data name="ru_pano403_title"><![CDATA[04]]></data>
+  <data name="ru_pano407_title"><![CDATA[27]]></data>
+
+  <data name="ru_panogroup419_title"><![CDATA[4 корпус]]></data>
+
+  <data name="ru_pano416_title"><![CDATA[100]]></data>
+  <data name="ru_pano417_title"><![CDATA[98]]></data>
+  <data name="ru_pano418_title"><![CDATA[99]]></data>
+
+
+  <data name="ru_pano422_title"><![CDATA[Переход в 5 корпус]]></data>
+
+  <data name="ru_panogroup426_title"><![CDATA[7 корпус]]></data>
+
+  <data name="ru_pano424_title"><![CDATA[103]]></data>
+  <data name="ru_pano425_title"><![CDATA[104]]></data>
+
+  <data name="ru_panogroup429_title"><![CDATA[1 корпус холл]]></data>
+
+  <data name="ru_pano428_title"><![CDATA[39]]></data>
+  <data name="ru_pano430_title"><![CDATA[45]]></data>
+
+  <data name="ru_panogroup435_title"><![CDATA[9 корпус]]></data>
+
+  <data name="ru_pano432_title"><![CDATA[92]]></data>
+  <data name="ru_pano433_title"><![CDATA[93]]></data>
+  <data name="ru_pano434_title"><![CDATA[96]]></data>
+
+  <data name="ru_panogroup1356_title"><![CDATA[2 корпус 2 эт]]></data>
+
+  <data name="ru_pano404_title"><![CDATA[05]]></data>
+  <data name="ru_pano405_title"><![CDATA[06]]></data>
+  <data name="ru_pano406_title"><![CDATA[08]]></data>
+
+
+
+
+
+	<data name="ru_panogroup39_floor_title"><![CDATA[1 этаж]]></data>
+	<data name="ru_spotmap453_tooltip"><![CDATA[1 этаж - 1]]></data>
+	<data name="ru_spotmap454_tooltip"><![CDATA[1 этаж - 6 банкомат]]></data>
+	<data name="ru_spotmap456_tooltip"><![CDATA[1 этаж - 2]]></data>
+	<data name="ru_spotmap457_tooltip"><![CDATA[1 этаж - 3]]></data>
+	<data name="ru_spotmap458_tooltip"><![CDATA[1 этаж - 4]]></data>
+	<data name="ru_spotmap459_tooltip"><![CDATA[1 этаж - 5]]></data>
+	<data name="ru_spotmap1033_tooltip"><![CDATA[Банкомат]]></data>
+	<data name="ru_panogroup54_floor_title"><![CDATA[3 этаж]]></data>
+	<data name="ru_spotmap461_tooltip"><![CDATA[Зеленый зал]]></data>
+	<data name="ru_spotmap462_tooltip"><![CDATA[3 этаж - 8]]></data>
+	<data name="ru_spotmap465_tooltip"><![CDATA[3 этаж - 7]]></data>
+	<data name="ru_spotmap467_tooltip"><![CDATA[3 этаж - 6 Банкомат]]></data>
+	<data name="ru_spotmap468_tooltip"><![CDATA[3 этаж - 5]]></data>
+	<data name="ru_spotmap469_tooltip"><![CDATA[3 этаж - 3]]></data>
+	<data name="ru_spotmap470_tooltip"><![CDATA[3 этаж - 2]]></data>
+	<data name="ru_spotmap471_tooltip"><![CDATA[3 этаж - 4]]></data>
+	<data name="ru_spotmap1058_tooltip"><![CDATA[Банкомат]]></data>
+	<data name="ru_panogroup58_floor_title"><![CDATA[5 этаж]]></data>
+	<data name="ru_spotmap709_tooltip"><![CDATA[5 этаж - 1]]></data>
+	<data name="ru_spotmap710_tooltip"><![CDATA[5 этаж - 2]]></data>
+	<data name="ru_spotmap711_tooltip"><![CDATA[5 этаж - 3]]></data>
+	<data name="ru_spotmap712_tooltip"><![CDATA[5 этаж - 4]]></data>
+	<data name="ru_panogroup45_floor_title"><![CDATA[6 этаж]]></data>
+	<data name="ru_spotmap706_tooltip"><![CDATA[6 этаж - 1]]></data>
+	<data name="ru_spotmap707_tooltip"><![CDATA[6 этаж - 2]]></data>
+	<data name="ru_panogroup101_floor_title"><![CDATA[Корпус 1]]></data>
+	<data name="ru_spotmap1343_tooltip"><![CDATA[Корпус 1 - 1]]></data>
+	<data name="ru_spotmap1345_tooltip"><![CDATA[Корпус 1 - 2]]></data>
+	<data name="ru_spotmap1346_tooltip"><![CDATA[Корпус 1 - 3]]></data>
+	<data name="ru_spotmap1363_tooltip"><![CDATA[39]]></data>
+	<data name="ru_spotmap1365_tooltip"><![CDATA[45]]></data>
+	<data name="ru_panogroup408_floor_title"><![CDATA[2 корпус 1 эт]]></data>
+	<data name="ru_spotmap1348_tooltip"><![CDATA[01]]></data>
+	<data name="ru_spotmap1349_tooltip"><![CDATA[02]]></data>
+	<data name="ru_spotmap1350_tooltip"><![CDATA[03]]></data>
+	<data name="ru_spotmap1352_tooltip"><![CDATA[04]]></data>
+	<data name="ru_spotmap1353_tooltip"><![CDATA[27]]></data>
+	<data name="ru_panogroup1356_floor_title"><![CDATA[2 корпус 2 эт]]></data>
+	<data name="ru_spotmap1360_tooltip"><![CDATA[06]]></data>
+	<data name="ru_spotmap1361_tooltip"><![CDATA[05]]></data>
+	<data name="ru_spotmap1362_tooltip"><![CDATA[08]]></data>
+
+  <data name="ru_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="ru_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="ru_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="ru_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="ru_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="ru_buttonForASinglePanotooltip"><![CDATA[]]></data>
+  <data name="ru_buttonForASinglePanogroupid1020"><![CDATA[panogroup326]]></data>
+
+
+  <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="ru_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="ru_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="ru_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="ru_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="ru_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="ru_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="ru_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="ru_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="ru_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="ru_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="ru_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="ru_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="ru_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="ru_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="ru_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="ru_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="ru_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="ru_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="ru_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="ru_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="ru_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="ru_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="ru_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="ru_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="ru_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+  <data name="ru_project_description"><![CDATA[Виртуальный тур]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
